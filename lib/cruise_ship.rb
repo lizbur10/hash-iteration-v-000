@@ -12,4 +12,5 @@ def select_winner(passengers)
       if value.start_with("A") && key == "suite_a"
         puts value
       end
+    end
 end
